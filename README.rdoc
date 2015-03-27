@@ -4,11 +4,7 @@ This project rocks and uses MIT-LICENSE. Its provides restful api for registrati
 
 ===SETUP
 
-#config/routes.rb
-mount AuthApi::Engine => "/your_path"
-
-#console
-rake auth_api:install:migrations
+rails g auth_api
 rake db:migrate
 
 ===USE (SAMPLE CURL REQUEST)
