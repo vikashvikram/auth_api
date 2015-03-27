@@ -4,6 +4,12 @@ This project rocks and uses MIT-LICENSE. Its provides restful api for registrati
 
 ===SETUP
 
+#Gemfile
+
+gem 'auth_api', git: 'https://github.com/vikashvikram/auth_api'
+
+#console
+
 rails g auth_api
 
 rake db:migrate
