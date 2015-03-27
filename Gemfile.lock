@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    auth_api (0.0.1)
+    auth_api (0.0.2)
       bcrypt (~> 3.1.7)
       rails (~> 4.2.1)
 
