@@ -7,7 +7,7 @@ This project rocks and uses MIT-LICENSE. Its provides restful api for registrati
 add following line in Gemfile
 
 ```ruby
-gem 'auth_api', git: 'https://github.com/vikashvikram/auth_api'
+gem 'auth_api'
 ```
 
 run following commands in console
