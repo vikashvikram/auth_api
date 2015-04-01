@@ -30,7 +30,7 @@ to authenticate an exising use
 curl http://yourdomain/your_path/authenticate --data "password=password&email=abc@xyz.com" 
 ```
 
-## RESPONSE
+### RESPONSE
 response is always in JSON format and has two fields: 
 
 * message: It contains user details or error message
