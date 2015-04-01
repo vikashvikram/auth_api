@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = AuthApi::VERSION
   s.authors     = ["Vikash Vikram"]
   s.email       = ["vikashvikram@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of AuthApi."
-  s.description = "TODO: Description of AuthApi."
+  s.homepage    = "https://github.com/vikashvikram/auth_api"
+  s.summary     = "auth_api gem provides restful api for registration and authentication of users"
+  s.description = "auth_api gem provides restful api for registration and authentication of users"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
